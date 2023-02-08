@@ -1,0 +1,7 @@
+D:\Abdurrehman 2021-CS-44\2nd Semester\Week 04\UAMS\bin\Debug\UAMS.exe.config
+D:\Abdurrehman 2021-CS-44\2nd Semester\Week 04\UAMS\bin\Debug\UAMS.exe
+D:\Abdurrehman 2021-CS-44\2nd Semester\Week 04\UAMS\bin\Debug\UAMS.pdb
+D:\Abdurrehman 2021-CS-44\2nd Semester\Week 04\UAMS\obj\Debug\UAMS.csproj.AssemblyReference.cache
+D:\Abdurrehman 2021-CS-44\2nd Semester\Week 04\UAMS\obj\Debug\UAMS.csproj.CoreCompileInputs.cache
+D:\Abdurrehman 2021-CS-44\2nd Semester\Week 04\UAMS\obj\Debug\UAMS.exe
+D:\Abdurrehman 2021-CS-44\2nd Semester\Week 04\UAMS\obj\Debug\UAMS.pdb
